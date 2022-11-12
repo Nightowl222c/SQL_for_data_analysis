@@ -21,6 +21,7 @@ https://www.simplilearn.com/tutorials/sql-tutorial/sql-aggregate-functions
 
 ### Important SQL Queries for Data-Analysis
 https://learnsql.com/blog/sql-queries-for-data-analysis/ 
+
 https://www.edureka.co/blog/sql-for-data-science/ 
 
 ### SQL Joins Blog Introduction: 
