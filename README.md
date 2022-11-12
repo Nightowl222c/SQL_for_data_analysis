@@ -49,8 +49,11 @@ https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects
 https://medium.com/@Armonia1999/data-analysis-project-using-sql-to-clean-and-analyse-data-64a24e84b730  
 
 # Practise
+Data retrieval exercises can be practised at the following link. The exercises and solutions can be seen in the quizletrepository. 
 
+Database:
 https://dive.renuo.ch/
 
+Exercises and solutions:
 https://quizlet.com/ch/744625644/sql-queries-flash-cards/
 
