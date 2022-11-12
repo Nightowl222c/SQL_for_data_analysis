@@ -1,6 +1,8 @@
 # SQL for data analysis
 
-# Links for self study
+# Theory
+
+## Links for self study
 This document serves as support for a self-learning unit in SQL to be able to analyse data. 
 
 ## Introduction
@@ -45,3 +47,7 @@ https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects
 
 ### Data Analyses Guided Project Example for better understanding what's going on
 https://medium.com/@Armonia1999/data-analysis-project-using-sql-to-clean-and-analyse-data-64a24e84b730  
+
+# Practise
+
+
