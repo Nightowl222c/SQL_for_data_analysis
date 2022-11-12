@@ -10,6 +10,7 @@ https://bootcamp.berkeley.edu/resources/coding/learn-sql/
 ## Basic Overview SQL
 W3 Schools includes theory and practice
 https://www.w3schools.com/sql/
+
 https://www.w3resource.com/sql-exercises/ 
 
 
