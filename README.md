@@ -50,4 +50,7 @@ https://medium.com/@Armonia1999/data-analysis-project-using-sql-to-clean-and-ana
 
 # Practise
 
+https://dive.renuo.ch/
+
+https://quizlet.com/ch/744625644/sql-queries-flash-cards/
 
