@@ -1,4 +1,4 @@
-# SQ for data analysis
+# SQL for data analysis
 
 # Links for self study
 This document serves as support for a self-learning unit in SQL to be able to analyse data. 
@@ -23,11 +23,14 @@ https://www.edureka.co/blog/sql-for-data-science/
 
 ### SQL Joins Blog Introduction: 
 https://learnsql.com/blog/learn-and-practice-sql-joins/
+
 https://learnsql.com/blog/top-sql-join-articles/ 
+
 https://www.tutorialscan.com/sql/sql-join-multiple-tables-with-conditions/
 
 ### SQL Joins Exercises & Practice
 https://www.w3resource.com/sql-exercises/sql-joins-exercises.php
+
 https://sqlbolt.com/lesson/select_queries_with_joins 
 
 ### SQL Join in multiple tables
